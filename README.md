@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalebHoffmanWVU
-- 🌱 I’m currently learning Data Science at West Virginia University
+- 🌱 I’m currently studying Data Science at West Virginia University
 - 📫 How to reach me - csh731@gmail.com
 
 <!---
